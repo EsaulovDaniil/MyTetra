@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format subversion="2" version="1"/>
+ <content>
+  <node crypt="0" name="Rename me" id="1300000000aaaaaaaaa1">
+   <recordtable>
+    <record dir="1300000000aaaaaaaaa2" name="Welcome to MyTetra!" id="1300000000aaaaaaaaa3" url="" file="text.html" tags="MyTetra, Qt" author="" ctime="20081210124656"/>
+   </recordtable>
+   <node crypt="0" name="Настройка фр" id="15211990759784z3su05">
+    <node crypt="0" name="Спарк" id="1521199134rjxm6vvp9a"/>
+   </node>
+   <node crypt="0" name="Ошибки фронта" id="1521199206f2tuslb43k">
+    <node crypt="0" name="Доставка" id="1521199213xmpgvhxaaf">
+     <recordtable>
+      <record dir="15211993177yg7o64fcb" name="Типичная ошибка Рис\Сицилия KitchenOrder" id="15211993177ui19nqdfw" url="" file="text.html" tags="#KitchenOrder #Доставка" author="" ctime="20180316142157"/>
+      <record dir="1521200471zjrhggdx2l" name="Типичная ошибка Сицилия CookingOrderItem" id="1521200471an3iswi2hx" url="" file="text.html" tags="#Доставка #CookingOrderItem" author="" ctime="20180316144111"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="0" name="Tomcat" id="1521200615m5etdjan91">
+    <recordtable>
+     <record dir="1521200732fmidl6jnn9" name="Два том кэта на одной машине " id="15212007325tnia8ssbt" url="" file="text.html" tags="#Tomcat #Два томкэта" author="" ctime="20180316144532"/>
+    </recordtable>
+   </node>
+   <node crypt="0" name="Очередь продаж" id="1521200774hvi3v3nezf">
+    <recordtable>
+     <record dir="1521201703anpg5z35u8" name="Прогрузка очереди продаж" id="1521201703r73vxeq4db" url="" file="text.html" tags="#очередь продаж # прогрузка" author="" ctime="20180316150143"/>
+    </recordtable>
+   </node>
+  </node>
+ </content>
+</root>
